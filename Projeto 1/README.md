@@ -13,10 +13,10 @@ O objetivo deste projeto é analisar e visualizar os dados de vendas de forma di
 
 ## Como Visualizar o Relatório
 
-1. Faça o download do arquivo `Relatorio_de_Vendas.pbix` localizado na pasta `Reports`
+1. Faça o download do arquivo `financial_sample_Projeto_analisando_dados.pbix`.
 2. Abra o arquivo no Power BI Desktop.
 3. Explore as visualizações interativas para analisar os dados de vendas e lucro.
-4. Caso não tenha o Power BI instalado, pode visualizar o arquivo em PDF.
+4. Caso não tenha o Power BI instalado, pode visualizar o arquivo em PDF `Projeto_Dashboard_de vendas.pdf`.
 
 ## Pré-requisitos
 
